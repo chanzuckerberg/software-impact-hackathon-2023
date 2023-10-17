@@ -1,4 +1,6 @@
 # Mapping the Impact of Research Software in Science
+![Mapping the Impact of Research Software in Science - banner](software-impact-hackathon-banner.png?raw=true "Mapping the Impact of Research Software in Science")
+
 The [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science) hosted a hackathon on **Mapping the Impact of Research Software in Science** (October 24-27, 2023). This repository serves as a project index page to faciliate the discovery and preservation of the output of that event.
 
 ## About
