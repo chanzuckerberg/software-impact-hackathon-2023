@@ -30,7 +30,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 - Gold dataset (project repo)
 - Bidirectional paper-repository traceability (project repo)
 - Improving tool mention clustering (project repo)
-- Linking research software to research organizations (project repo)
+- Linking research software to research organizations ([project repo](https://github.com/jmelot/oss_to_orgs))
 
 ### Visualization
 - Visualizing adoption and impact of open source software in academia (project repo)
