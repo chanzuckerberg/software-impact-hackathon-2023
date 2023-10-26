@@ -1,7 +1,7 @@
 # Mapping the Impact of Research Software in Science
 ![Mapping the Impact of Research Software in Science - banner](software-impact-hackathon-banner.png?raw=true "Mapping the Impact of Research Software in Science")
 
-The [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science) hosted a hackathon on **Mapping the Impact of Research Software in Science** (October 24-27, 2023). This repository serves as a project index page to faciliate the discovery and preservation of the output of that event.
+The [Chan Zuckerberg Initiative](https://chanzuckerberg.com/science) hosted a hackathon on **Mapping the Impact of Research Software in Science** (October 24-27, 2023). This repository serves as a project index page to facilitate the discovery and preservation of the output of this event.
 
 ## About
 Mapping the usage and impact of research software in science remains a challenge due to the lack of canonical data/ infrastructure and inconsistent software citation practices in the scientific literature. The lack of a “software citation graph” means that it’s very hard to answer questions such as: 
