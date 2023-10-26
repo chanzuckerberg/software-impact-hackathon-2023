@@ -16,17 +16,19 @@ In recent years, several attempts have been made to answer these questions by [m
 
 _Hackathon Participants: Please submit a pull request to this repo in which you edit this readme to include the appropriate link to your project repo, or add your repo to the appropriate list if it is not already present._
 ## Projects
+
+- Tracing the dependencies of open source software mentioned in the biomedical literature [https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
   
 ### Applications
 
 - Determining the citation intent for software repositories (project repo)
 - Playing with LLMs and research software (project repo)
-- Tracing the dependencies of open source software mentioned in the biomedical literature [https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
+- Tracing the dependencies of open source software mentioned in the biomedical literature (project repo)
 - Disciplinary differences in software usage and mention (project repo)
 
 ### Enhancements
 - Gold dataset (project repo)
-- Bidirectional paper-repository traceability (project repo)
+- Bidirectional paper-repository traceability ([project repo](https://github.com/ctreude/SoftwareImpactHackathon2023_BiDirectional))
 - Improving tool mention clustering (project repo)
 - Linking research software to research organizations ([project repo](https://github.com/jmelot/oss_to_orgs))
 
