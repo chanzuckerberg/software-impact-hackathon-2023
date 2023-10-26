@@ -19,19 +19,19 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
   
 ### Applications
 
-- Determining the citation intent for software repositories (project repo)
-- [Annotating where software might need to be cited with LLMs](https://github.com/chpdm/SoftwareImpactHackathon2023_MINT-AI)
-- Tracing the dependencies of open source software mentioned in the biomedical literature [https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
-- Disciplinary differences in software usage and mention (project repo)
+- [Determining the citation intent for software repositories](https://github.com/karacolada/SoftwareImpactHackathon2023_SoftwareCitationIntent)
+- [Identifying missing software citations with LLMs](https://github.com/chpdm/SoftwareImpactHackathon2023_MINT-AI)
+- [Tracing the dependencies of open source software mentioned in the biomedical literature](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
+- Disciplinary differences in software usage and mention 
 
 ### Enhancements
-- Gold dataset (project repo)
-- Bidirectional paper-repository traceability (project repo)
-- Improving tool mention clustering (project repo)
-- Linking research software to research organizations ([project repo](https://github.com/jmelot/oss_to_orgs))
+- Gold dataset
+- Bidirectional paper-repository traceability
+- Improving tool mention clustering
+- [Linking research software to research organizations](https://github.com/jmelot/oss_to_orgs)
 
 ### Visualization
-- Visualizing adoption and impact of open source software in academia (project repo)
+- Visualizing adoption and impact of open source software in academia
 
 ## Code of Conduct
 This project adheres to the Contributor Covenant [code of conduct](https://github.com/chanzuckerberg/.github/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opensource@chanzuckerberg.com](mailto:opensource@chanzuckerberg.com).
