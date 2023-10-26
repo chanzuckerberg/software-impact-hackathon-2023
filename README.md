@@ -19,7 +19,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
   
 ### Applications
 
-- Determining the citation intent for software repositories (project repo)
+- Determining the citation intent for software repositories ([project repo](https://github.com/karacolada/SoftwareImpactHackathon2023_SoftwareCitationIntent))
 - Playing with LLMs and research software (project repo)
 - Tracing the dependencies of open source software mentioned in the biomedical literature [https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
 - Disciplinary differences in software usage and mention (project repo)
