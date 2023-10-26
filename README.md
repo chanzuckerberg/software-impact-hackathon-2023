@@ -26,7 +26,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 
 ### Enhancements
 - Gold dataset
-- Bidirectional paper-repository traceability
+- [Bidirectional paper-repository traceability](https://github.com/ctreude/SoftwareImpactHackathon2023_BiDirectional)
 - Improving tool mention clustering
 - [Linking research software to research organizations](https://github.com/jmelot/oss_to_orgs)
 
