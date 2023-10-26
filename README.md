@@ -20,7 +20,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 ### Applications
 
 - Determining the citation intent for software repositories (project repo)
-- Playing with LLMs and research software (project repo)
+- [Annotating where software might need to be cited with LLMs](https://github.com/chpdm/SoftwareImpactHackathon2023_MINT-AI)
 - Tracing the dependencies of open source software mentioned in the biomedical literature [https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
 - Disciplinary differences in software usage and mention (project repo)
 
