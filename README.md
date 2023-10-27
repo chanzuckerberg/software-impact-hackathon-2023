@@ -27,7 +27,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 ### Enhancements
 - [Gold dataset](https://github.com/annelhote/softMeScite)
 - [Bidirectional paper-repository traceability](https://github.com/ctreude/SoftwareImpactHackathon2023_BiDirectional)
-- Improving tool mention clustering
+- [Improving tool mention clustering](https://github.com/SoftwareUnderstanding/SoftwareDisambiguationBenchmark)
 - [Linking research software to research organizations](https://github.com/jmelot/oss_to_orgs)
 
 ### Visualization
