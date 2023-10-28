@@ -22,7 +22,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 - [Determining the citation intent for software repositories](https://github.com/karacolada/SoftwareImpactHackathon2023_SoftwareCitationIntent)
 - [Identifying missing software citations with LLMs](https://github.com/chpdm/SoftwareImpactHackathon2023_MINT-AI)
 - [Tracing the dependencies of open source software mentioned in the biomedical literature](https://github.com/borisveytsman/SoftwareImpactHackathon2023_Tracing_dependencies)
-- Disciplinary differences in software usage and mention 
+- [Disciplinary differences in software usage and mention](https://github.com/f-krueger/SoftwareImpactHackathon2023_DisciplinaryDifferences) 
 
 ### Enhancements
 - [Gold dataset](https://github.com/annelhote/softMeScite)
