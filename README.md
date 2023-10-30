@@ -31,7 +31,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 - [Linking research software to research organizations](https://github.com/jmelot/oss_to_orgs)
 
 ### Visualization
-- Visualizing adoption and impact of open source software in academia
+- [Visualizing adoption and impact of open source software in academia](https://github.com/juyingnan/SoftwareImpactHackathon2023_VizTrention)
 
 ## Code of Conduct
 This project adheres to the Contributor Covenant [code of conduct](https://github.com/chanzuckerberg/.github/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opensource@chanzuckerberg.com](mailto:opensource@chanzuckerberg.com).
