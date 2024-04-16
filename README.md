@@ -36,6 +36,7 @@ _Hackathon Participants: Please submit a pull request to this repo in which you 
 ## Publications & research outputs
 The following is a list of preprints, papers, and other research outputs based on hackathon projects:
 - Daniel Garijo, Miguel Arroyo, Esteban Gonzalez, Christoph Treude, and Nicola Tarocco. 2024. Bidirectional Paper-Repository Tracing in Software Engineering. In _21st International Conference on Mining Software Repositories_ (MSR ’24), April 15–16, 2024, Lisbon, Portugal. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3643991.3644876
+- Andrew Nesbitt, Boris Veytsman, Daniel Mietchen, Eva Maxfield Brown, James Howison, João Felipe Pimentel, Laurent Hèbert-Dufresne, and Stephan Druskat. 2024. Biomedical Open Source Software: Crucial Packages and Hidden Heroes. arXiv, https://doi.org/10.48550/arXiv.2404.06672
 
 ## Code of Conduct
 This project adheres to the Contributor Covenant [code of conduct](https://github.com/chanzuckerberg/.github/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to [opensource@chanzuckerberg.com](mailto:opensource@chanzuckerberg.com).
